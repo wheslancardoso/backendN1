@@ -1,5 +1,5 @@
 # Projeto CRUD Full Stack - Java Spring Boot e Angular
-
+Feito por: Wheslan Cardoso, João Lucas Alves, Heitor Silva Guedes
 Este projeto implementa uma aplicação CRUD (Create, Read, Update, Delete) completa, utilizando Java Spring Boot para o backend e Angular para o frontend, com MySQL como banco de dados.
 
 ## Tecnologias Utilizadas
